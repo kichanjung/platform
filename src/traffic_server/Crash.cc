@@ -21,7 +21,6 @@
   limitations under the License.
  */
 
-#test
 #include "Main.h"
 #include "tscore/I_Layout.h"
 #include "tscore/I_Version.h"
